@@ -184,7 +184,3 @@ The documentation is extremely useful, and I recommend reading through it. As yo
 
 [Devise]: https://github.com/plataformatec/devise
 [Pundit]: https://github.com/elabs/pundit
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/devise_pundit_readme'>Devise and Pundit</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/devise_pundit_readme'>Devise and Pundit</a> on Learn.co and start learning to code for free.</p>
